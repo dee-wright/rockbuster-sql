@@ -1,5 +1,5 @@
 # rockbuster-sql
-Launch Assist Analysis of Rockbuster Stealth LLC (SQL)
+Launch Assist Analysis of Rockbuster Stealth LLC (SQL Analysis)
 
 ### Project Brief
 Rockbuster Stealth was moving into an online movie rental space, in order to stay competitive with streamers. They required analysis to answer key questions pertaining to their launch strategy.
