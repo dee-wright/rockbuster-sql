@@ -14,5 +14,8 @@ Do sales vary by geographic regions?
 ### Dataset
 www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
+### Contents
+(coming soon)
+
 ### Visualizations (Tableau)
 https://public.tableau.com/app/profile/danielle.wright4188/viz/RockbusterTopCustomers/RockbusterTopCustomers?publish=yes
