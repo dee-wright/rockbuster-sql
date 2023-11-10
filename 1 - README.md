@@ -15,7 +15,11 @@ Do sales vary by geographic regions?
 www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 ### Contents
-(coming soon)
+Data Cleaning & Standardization Queries    
+Summarizing Queries   
+Top 10 Countries Query   
+Top 5 Cities Query     
+Top 5 Customers Analysis   
 
 ### Visualizations (Tableau)
 https://public.tableau.com/app/profile/danielle.wright4188/viz/RockbusterTopCustomers/RockbusterTopCustomers?publish=yes
